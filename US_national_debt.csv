@@ -1,0 +1,232 @@
+Year,President,Change,Cummulative Debt,Percent Increase,Total Term Increase,End Of Term Total Debt,Party
+1789,George Washington,n/a,n/a,n/a,n/a,n/a,Independent
+1790,George Washington,n/a,n/a,n/a,n/a,n/a,Independent
+1791,George Washington,75463476.52,75463476.52,n/a,100%,0.00%,Independent
+1792,George Washington,1764448.14,77227924.66,2.30%,100%,0.00%,Independent
+1793,George Washington,3130709.38,80358634.04,4.00%,100%,0.00%,Independent
+1794,George Washington,-1931229.27,78427404.77,-2.40%,100%,0.00%,Independent
+1795,George Washington,2320182.62,80747587.39,3.00%,100%,0.00%,Independent
+1796,George Washington,3014584.68,83762172.07,3.70%,100%,0.00%,Independent
+1797,John Adams,-1697692.74,82064479.33,-2.00%,-0.90%,0.00%,Federalist
+1798,John Adams,-2835950.21,79228529.12,-3.50%,-0.90%,0.00%,Federalist
+1799,John Adams,-819859.35,78408669.77,-1.03%,-0.90%,0.00%,Federalist
+1800,John Adams,4567624.58,82976294.35,5.80%,-0.90%,0.00%,Federalist
+1801,Thomas Jefferson,61756.45,83038050.8,7.40%,-21.40%,0.00%,Republican
+1802,Thomas Jefferson,-2325418.55,80712632.25,-2.80%,-21.40%,0.00%,Republican
+1803,Thomas Jefferson,-3657945.85,77054686.4,-4.50%,-21.40%,0.00%,Republican
+1804,Thomas Jefferson,9372434.48,86427120.88,12.20%,-21.40%,0.00%,Republican
+1805,Thomas Jefferson,-4114970.38,82312150.5,-4.80%,-21.40%,0.00%,Republican
+1806,Thomas Jefferson,-6588879.84,75723270.66,-8.00%,-21.40%,0.00%,Republican
+1807,Thomas Jefferson,-6504872.02,69218398.64,-8.60%,-21.40%,0.00%,Republican
+1808,Thomas Jefferson,-4022080.67,65196317.97,-5.80%,-21.40%,0.00%,Republican
+1809,James Madison,-8173125.88,57023192.09,-12.50%,95.30%,0.00%,Republican
+1810,James Madison,-3849974.57,53173217.52,-6.80%,95.30%,0.00%,Republican
+1811,James Madison,-5167629.76,48005587.76,-9.70%,95.30%,0.00%,Republican
+1812,James Madison,-2795849.86,45209737.9,-5.80%,95.30%,0.00%,Republican
+1813,James Madison,10753089.67,55962827.57,23.80%,95.30%,0.00%,Republican
+1814,James Madison,25525018.67,81487846.24,45.60%,95.30%,0.00%,Republican
+1815,James Madison,18345813.91,99833660.15,22.50%,95.30%,0.00%,Republican
+1816,James Madison,27501273.59,127334933.7,27.50%,95.30%,0.00%,Republican
+1817,James Monroe,-3842968.58,123491965.2,-3.00%,-29.10%,0.00%,Republican
+1818,James Monroe,-20025331.33,103466633.8,-16.20%,-29.10%,0.00%,Republican
+1819,James Monroe,-7936985.55,95529648.28,-7.70%,-29.10%,0.00%,Republican
+1820,James Monroe,-4514082.13,91015566.15,-4.70%,-29.10%,0.00%,Republican
+1821,James Monroe,-1028138.49,89987427.66,-1.10%,-29.10%,0.00%,Republican
+1822,James Monroe,3559249.32,93546676.98,4.00%,-29.10%,0.00%,Republican
+1823,James Monroe,-2670799.7,90875877.28,-2.90%,-29.10%,0.00%,Republican
+1824,James Monroe,-606099.51,90269777.77,-0.60%,-29.10%,0.00%,Republican
+1825,John Quincy Adams,-6481345.06,83788432.71,-7.20%,-25.30%,0.00%,Republican
+1826,John Quincy Adams,-2734372.72,81054059.99,-3.30%,-25.30%,0.00%,Republican
+1827,John Quincy Adams,-7066702.79,73987357.2,-8.70%,-25.30%,0.00%,Republican
+1828,John Quincy Adams,-6512313.33,67475043.87,-8.80%,-25.30%,0.00%,Republican
+1829,Andrew Jackson,-9053630.2,58421413.67,-13.40%,-99.90%,0.00%,Democrat
+1830,Andrew Jackson,-9856007.17,48565406.5,-16.90%,-99.90%,0.00%,Democrat
+1831,Andrew Jackson,-9442214.82,39123191.68,-19.40%,-99.90%,0.00%,Democrat
+1832,Andrew Jackson,-14800956.5,24322235.18,-37.80%,-99.90%,0.00%,Democrat
+1833,Andrew Jackson,-17320536.35,7001698.83,-71.20%,-99.90%,0.00%,Democrat
+1834,Andrew Jackson,-2241616.75,4760082.08,-32.00%,-99.90%,0.00%,Democrat
+1835,Andrew Jackson,-4726349.03,33733.05,-99.30%,-99.90%,0.00%,Democrat
+1836,Andrew Jackson,3780,37513.05,11.20%,-99.90%,0.00%,Democrat
+1837,Martin Van Buren,299444.78,336957.83,798.20%,9425.60%,0.00%,Democrat
+1838,Martin Van Buren,2971166.24,3308124.07,881.80%,9425.60%,0.00%,Democrat
+1839,Martin Van Buren,7126097.07,10434221.14,215.40%,9425.60%,0.00%,Democrat
+1840,Martin Van Buren,-6860877.32,3573343.82,-65.80%,9425.60%,0.00%,Democrat
+1841,William Henry Harrison / John Tyler,1677531.72,5250875.54,46.90%,556.60%,0.00%,Whig
+1842,John Tyler,8343605.19,13594480.73,158.90%,556.60%,0.00%,Independent
+1843,John Tyler,19148441.27,32742922,140.90%,556.60%,0.00%,Independent
+1844,John Tyler,-9281269.5,23461652.5,-28.30%,556.60%,0.00%,Independent
+1845,James Knox Polk,-7536349.49,15925303.01,-32.10%,100.50%,0.00%,Democrat
+1846,James Knox Polk,-375100.04,15550202.97,-2.40%,100.50%,0.00%,Democrat
+1847,James Knox Polk,23276331.8,38826534.77,149.70%,100.50%,0.00%,Democrat
+1848,James Knox Polk,8218327.46,47044862.23,21.20%,100.50%,0.00%,Democrat
+1849,Zachary Taylor,16016996.46,63061858.69,34%,34%,0.00%,Whig
+1850,Millard Fillmore,390914.86,63452773.55,0.60%,5.00%,0.00%,Whig
+1851,Millard Fillmore,4852022.47,68304796.02,7.60%,5.00%,0.00%,Whig
+1852,Millard Fillmore,-2105454.31,66199341.71,-3.10%,5.00%,0.00%,Whig
+1853,Franklin Pierce,-6396224.01,59803117.7,-9.70%,-51.70%,0.00%,Democrat
+1854,Franklin Pierce,-17560895.28,42242222.42,-29.40%,-51.70%,0.00%,Democrat
+1855,Franklin Pierce,-6655265.86,35586956.56,-15.80%,-51.70%,0.00%,Democrat
+1856,Franklin Pierce,-3614418.66,31972537.9,-10.20%,-51.70%,0.00%,Democrat
+1857,James Buchanan,-3272706.05,28699831.85,-10.20%,102.80%,0.00%,Democrat
+1858,James Buchanan,16212049.18,44911881.03,56.50%,102.80%,0.00%,Democrat
+1859,James Buchanan,13584956.85,58496837.88,30.20%,102.80%,0.00%,Democrat
+1860,James Buchanan,6345450,64842287.88,10.80%,102.80%,0.00%,Democrat
+1861,Abraham Lincoln,25738585.84,90580873.72,39.70%,2700.30%,0.01%,Republican
+1862,Abraham Lincoln,433595538.4,524176412.1,478.70%,2700.30%,0.01%,Republican
+1863,Abraham Lincoln,595595726.5,1119772139,113.60%,2700.30%,0.01%,Republican
+1864,Abraham Lincoln,696012231.9,1815784371,62.20%,2700.30%,0.01%,Republican
+1865,Andrew Johnson,864863499.2,2680647870,47.60%,43.80%,0.01%,Democrat
+1866,Andrew Johnson,92588303.95,2773236174,3.50%,43.80%,0.01%,Democrat
+1867,Andrew Johnson,-95110069.82,2678126104,-3.40%,43.80%,0.01%,Democrat
+1868,Andrew Johnson,-66438252.68,2611687851,-2.50%,43.80%,0.01%,Democrat
+1869,Ulysses Simpson Grant,-23235637.25,2588452214,-0.90%,-16.50%,0.00%,Republican
+1870,Ulysses Simpson Grant,-107779786.1,2480672428,-4.20%,-16.50%,0.00%,Republican
+1871,Ulysses Simpson Grant,-127461095.5,2353211332,-5.10%,-16.50%,0.00%,Republican
+1872,Ulysses Simpson Grant,-99960003.54,2253251329,-4.20%,-16.50%,0.00%,Republican
+1873,Ulysses Simpson Grant,-18768335.58,2234482993,-0.80%,-16.50%,0.00%,Republican
+1874,Ulysses Simpson Grant,17207475.23,2251690468,0.80%,-16.50%,0.00%,Republican
+1875,Ulysses Simpson Grant,-19405936.48,2232284532,-0.90%,-16.50%,0.00%,Republican
+1876,Ulysses Simpson Grant,-51889464.8,2180395067,-2.30%,-16.50%,0.00%,Republican
+1877,Rutherford Birchard Hayes,24906324.95,2205301392,1.10%,-2.80%,0.00%,Republican
+1878,Rutherford Birchard Hayes,50904500.43,2256205893,2.30%,-2.80%,0.00%,Republican
+1879,Rutherford Birchard Hayes,93361589.51,2349567482,4.10%,-2.80%,0.00%,Republican
+1880,Rutherford Birchard Hayes,-229152111.4,2120415371,-9.80%,-2.80%,0.00%,Republican
+1881,James Abram Garfield / Chester Alan Arthur,-51401801.05,2069013570,-2.40%,-13.70%,0.00%,Republican
+1882,Chester Alan Arthur,-150700575.6,1918312994,-7.30%,-13.70%,0.00%,Republican
+1883,Chester Alan Arthur,-34141265.96,1884171728,-1.80%,-13.70%,0.00%,Republican
+1884,Chester Alan Arthur,-53642804.5,1830528924,-2.80%,-13.70%,0.00%,Republican
+1885,Grover Cleveland,33435949.57,1863964873,1.80%,-7.50%,0.00%,Democrat
+1886,Grover Cleveland,-88901859.36,1775063014,-4.80%,-7.50%,0.00%,Democrat
+1887,Grover Cleveland,-117460421.2,1657602593,-6.60%,-7.50%,0.00%,Democrat
+1888,Grover Cleveland,35256391.95,1692858985,2.10%,-7.50%,0.00%,Democrat
+1889,Benjamin Harrison,-73806062.35,1619052922,-4.40%,-6.20%,0.00%,Republican
+1890,Benjamin Harrison,-66912717.5,1552140205,-4.10%,-6.20%,0.00%,Republican
+1891,Benjamin Harrison,-6143613.12,1545996592,-0.40%,-6.20%,0.00%,Republican
+1892,Benjamin Harrison,42467553.02,1588464145,2.70%,-6.20%,0.00%,Republican
+1893,Grover Cleveland,-42478458.5,1545985686,-2.70%,11.40%,0.00%,Democrat
+1894,Grover Cleveland,86267950.55,1632253637,5.60%,11.40%,0.00%,Democrat
+1895,Grover Cleveland,43867346.57,1676120983,2.70%,11.40%,0.00%,Democrat
+1896,Grover Cleveland,93719340.15,1769840323,5.60%,11.40%,0.00%,Democrat
+1897,William McKinley,47832342.5,1817672666,2.70%,20.70%,0.00%,Republican
+1898,William McKinley,-21140670,1796531996,-1.20%,20.70%,0.00%,Republican
+1899,William McKinley,195395311,1991927307,10.90%,20.70%,0.00%,Republican
+1900,William McKinley,145033784.8,2136961092,7.30%,20.70%,0.00%,Republican
+1901,Theodore Roosevelt,6365842.22,2143326934,0.30%,22.90%,0.00%,Republican
+1902,Theodore Roosevelt,15283512,2158610446,0.70%,22.90%,0.00%,Republican
+1903,Theodore Roosevelt,43854336,2202464782,2.00%,22.90%,0.00%,Republican
+1904,Theodore Roosevelt,61538803.25,2264003585,2.80%,22.90%,0.00%,Republican
+1905,Theodore Roosevelt,10611478.7,2274615064,0.50%,22.90%,0.00%,Republican
+1906,Theodore Roosevelt,62546775.2,2337161839,2.70%,22.90%,0.00%,Republican
+1907,Theodore Roosevelt,120026222.5,2457188062,5.10%,22.90%,0.00%,Republican
+1908,Theodore Roosevelt,169618210,2626806272,6.90%,22.90%,0.00%,Republican
+1909,William Howard Taft,12739969.5,2639546241,0.50%,9.20%,0.00%,Republican
+1910,William Howard Taft,13119597,2652665838,0.50%,9.20%,0.00%,Republican
+1911,William Howard Taft,112934768.7,2765600607,4.30%,9.20%,0.00%,Republican
+1912,William Howard Taft,102773267.5,2868373874,3.70%,9.20%,0.00%,Republican
+1913,Woodrow Wilson,47831039.5,2916204914,1.70%,804.80%,0.10%,Democrat
+1914,Woodrow Wilson,-3705644.5,2912499269,-0.10%,804.80%,0.10%,Democrat
+1915,Woodrow Wilson,145637604,3058136873,5.00%,804.80%,0.10%,Democrat
+1916,Woodrow Wilson,551107389,3609244262,18.00%,804.80%,0.10%,Democrat
+1917,Woodrow Wilson,2108526017,5717770280,58.40%,804.80%,0.10%,Democrat
+1918,Woodrow Wilson,8874391134,14592161414,155.20%,804.80%,0.10%,Democrat
+1919,Woodrow Wilson,12798808699,27390970113,87.70%,804.80%,0.10%,Democrat
+1920,Woodrow Wilson,-1438513707,25952456406,-5.30%,804.80%,0.10%,Democrat
+1921,Warren Gamaliel Harding,-1975005854,23977450553,-7.60%,-11.50%,-0.01%,Republican
+1922,Warren Gamaliel Harding,-1014068844,22963381708,-4.20%,-11.50%,-0.01%,Republican
+1923,Calvin Coolidge,-613674343,22349707365,-2.70%,-23.30%,-0.03%,Republican
+1924,Calvin Coolidge,-1098894376,21250812989,-4.90%,-23.30%,-0.03%,Republican
+1925,Calvin Coolidge,-734619101.6,20516193888,-3.50%,-23.30%,-0.03%,Republican
+1926,Calvin Coolidge,-872977572.7,19643216315,-4.30%,-23.30%,-0.03%,Republican
+1927,Calvin Coolidge,-1131309383,18511906932,-5.80%,-23.30%,-0.03%,Republican
+1928,Calvin Coolidge,-907613730.4,17604293201,-4.90%,-23.30%,-0.03%,Republican
+1929,Herbert Clark Hoover,-673204717.3,16931088484,-3.80%,10.70%,0.01%,Republican
+1930,Herbert Clark Hoover,-745778652.7,16185309831,-4.40%,10.70%,0.01%,Republican
+1931,Herbert Clark Hoover,615971660.3,16801281492,3.80%,10.70%,0.01%,Republican
+1932,Herbert Clark Hoover,2685720952,19487002444,16.00%,10.70%,0.01%,Republican
+1933,Franklin Delano Roosevelt,3051670116,22538672560,15.70%,931.50%,0.90%,Democrat
+1934,Franklin Delano Roosevelt,4514468854,27053141414,20.00%,931.50%,0.90%,Democrat
+1935,Franklin Delano Roosevelt,1647751210,28700892625,6.10%,931.50%,0.90%,Democrat
+1936,Franklin Delano Roosevelt,5077650869,33778543494,17.70%,931.50%,0.90%,Democrat
+1937,Franklin Delano Roosevelt,2646070239,36424613732,7.80%,931.50%,0.90%,Democrat
+1938,Franklin Delano Roosevelt,740126583.2,37164740315,2.00%,931.50%,0.90%,Democrat
+1939,Franklin Delano Roosevelt,3274792096,40439532411,8.80%,931.50%,0.90%,Democrat
+1940,Franklin Delano Roosevelt,2527998627,42967531038,6.30%,931.50%,0.90%,Democrat
+1941,Franklin Delano Roosevelt,5993912498,48961443536,13.90%,931.50%,0.90%,Democrat
+1942,Franklin Delano Roosevelt,23461001581,72422445116,47.90%,931.50%,0.90%,Democrat
+1943,Franklin Delano Roosevelt,64273645214,1.36696E+11,88.70%,931.50%,0.90%,Democrat
+1944,Franklin Delano Roosevelt,64307296891,2.01003E+11,47.00%,931.50%,0.90%,Democrat
+1945,Harry S Truman,57678800189,2.58682E+11,28.70%,28.90%,0.30%,Democrat
+1946,Harry S Truman,10739911763,2.69422E+11,4.20%,28.90%,0.30%,Democrat
+1947,Harry S Truman,-11135716065,2.58286E+11,-4.10%,28.90%,0.30%,Democrat
+1948,Harry S Truman,-5994136596,2.52292E+11,-2.30%,28.90%,0.30%,Democrat
+1949,Harry S Truman,478113347.3,2.5277E+11,0.20%,28.90%,0.30%,Democrat
+1950,Harry S Truman,4586992491,2.57357E+11,1.80%,28.90%,0.30%,Democrat
+1951,Harry S Truman,-2135375536,2.55222E+11,-0.80%,28.90%,0.30%,Democrat
+1952,Harry S Truman,3883201971,2.59105E+11,1.50%,28.90%,0.30%,Democrat
+1953,Dwight David Eisenhower,6965882853,2.66071E+11,2.70%,10.50%,0.10%,Republican
+1954,Dwight David Eisenhower,5188537470,2.7126E+11,2.00%,10.50%,0.10%,Republican
+1955,Dwight David Eisenhower,3114623694,2.74374E+11,1.10%,10.50%,0.10%,Republican
+1956,Dwight David Eisenhower,-1623409153,2.72751E+11,-0.60%,10.50%,0.10%,Republican
+1957,Dwight David Eisenhower,-2223641753,2.70527E+11,-0.80%,10.50%,0.10%,Republican
+1958,Dwight David Eisenhower,5816045849,2.76343E+11,2.10%,10.50%,0.10%,Republican
+1959,Dwight David Eisenhower,8362689332,2.84706E+11,3.00%,10.50%,0.10%,Republican
+1960,Dwight David Eisenhower,1624853770,2.86331E+11,0.60%,10.50%,0.10%,Republican
+1961,John Fitzgerald Kennedy,2640177762,2.88971E+11,0.90%,6.80%,0.09%,Democrat
+1962,John Fitzgerald Kennedy,9229884111,2.98201E+11,3.20%,6.80%,0.09%,Democrat
+1963,John Fitzgerald Kennedy / Lyndon Baines Johnson,7658810276,3.0586E+11,2.60%,6.80%,0.09%,Democrat
+1964,Lyndon Baines Johnson,5853266261,3.11713E+11,1.90%,13.60%,0.20%,Democrat
+1965,Lyndon Baines Johnson,5560999726,3.17274E+11,1.80%,13.60%,0.20%,Democrat
+1966,Lyndon Baines Johnson,2633188812,3.19907E+11,0.80%,13.60%,0.20%,Democrat
+1967,Lyndon Baines Johnson,6313849999,3.26221E+11,2.00%,13.60%,0.20%,Democrat
+1968,Lyndon Baines Johnson,21357468631,3.47578E+11,6.50%,13.60%,0.20%,Democrat
+1969,Richard Milhous Nixon,6141847416,3.5372E+11,1.80%,31.80%,0.50%,Republican
+1970,Richard Milhous Nixon,17198453109,3.70919E+11,4.90%,31.80%,0.50%,Republican
+1971,Richard Milhous Nixon,27211037506,3.9813E+11,7.30%,31.80%,0.50%,Republican
+1972,Richard Milhous Nixon,29130716485,4.2726E+11,7.30%,31.80%,0.50%,Republican
+1973,Richard Milhous Nixon,30881144372,4.58142E+11,7.20%,31.80%,0.50%,Republican
+1974,Gerald Rudolph Ford Jr,16918210419,4.7506E+11,3.70%,35.40%,0.70%,Republican
+1975,Gerald Rudolph Ford Jr,58129184268,"*$533,189,000,000.00",12.20%,35.40%,0.70%,Republican
+1976,Gerald Rudolph Ford Jr,87244000000,"*$620,433,000,000.00",16.40%,35.40%,0.70%,Republican
+1977,James Earl Carter,78407000000,"*$698,840,000,000.00",12.60%,46.30%,1.30%,Democrat
+1978,James Earl Carter,72704000000,"*$771,544,000,000.00",10.40%,46.30%,1.30%,Democrat
+1979,James Earl Carter,54975000000,"*$826,519,000,000.00",7.10%,46.30%,1.30%,Democrat
+1980,James Earl Carter,81182000000,"*$907,701,000,000.00",9.80%,46.30%,1.30%,Democrat
+1981,Ronald Wilson Reagan,90154000000,"*$997,855,000,000.00",9.90%,186.70%,7.70%,Republican
+1982,Ronald Wilson Reagan,1.44179E+11,"*$1,142,034,000,000.00",14.40%,186.70%,7.70%,Republican
+1983,Ronald Wilson Reagan,2.35176E+11,"*$1,377,210,000,000.00",20.60%,186.70%,7.70%,Republican
+1984,Ronald Wilson Reagan,1.95056E+11,"*$1,572,266,000,000.00",14.20%,186.70%,7.70%,Republican
+1985,Ronald Wilson Reagan,2.50837E+11,"*$1,823,103,000,000.00",16.00%,186.70%,7.70%,Republican
+1986,Ronald Wilson Reagan,3.022E+11,2.1253E+12,16.60%,186.70%,7.70%,Republican
+1987,Ronald Wilson Reagan,2.24974E+11,2.35028E+12,10.60%,186.70%,7.70%,Republican
+1988,Ronald Wilson Reagan,2.52061E+11,2.60234E+12,10.70%,186.70%,7.70%,Republican
+1989,George Herbert Walker Bush,2.55093E+11,2.85743E+12,9.80%,56.20%,6.60%,Republican
+1990,George Herbert Walker Bush,3.75882E+11,3.23331E+12,13.20%,56.20%,6.60%,Republican
+1991,George Herbert Walker Bush,4.3199E+11,3.6653E+12,13.40%,56.20%,6.60%,Republican
+1992,George Herbert Walker Bush,3.99317E+11,4.06462E+12,10.90%,56.20%,6.60%,Republican
+1993,William Jefferson Clinton,3.46868E+11,4.41149E+12,8.50%,39.60%,7.30%,Democrat
+1994,William Jefferson Clinton,2.81261E+11,4.69275E+12,6.40%,39.60%,7.30%,Democrat
+1995,William Jefferson Clinton,2.81233E+11,4.97398E+12,6.00%,39.60%,7.30%,Democrat
+1996,William Jefferson Clinton,2.50828E+11,5.22481E+12,5.00%,39.60%,7.30%,Democrat
+1997,William Jefferson Clinton,1.88335E+11,5.41315E+12,3.60%,39.60%,7.30%,Democrat
+1998,William Jefferson Clinton,1.13047E+11,5.52619E+12,2.10%,39.60%,7.30%,Democrat
+1999,William Jefferson Clinton,1.30078E+11,5.65627E+12,2.40%,39.60%,7.30%,Democrat
+2000,William Jefferson Clinton,17907308271,5.67418E+12,0.30%,39.60%,7.30%,Democrat
+2001,George Walker Bush,1.33285E+11,5.80746E+12,2.30%,76.70%,19.80%,Republican
+2002,George Walker Bush,4.20773E+11,6.22824E+12,7.20%,76.70%,19.80%,Republican
+2003,George Walker Bush,5.54995E+11,6.78323E+12,8.90%,76.70%,19.80%,Republican
+2004,George Walker Bush,5.95822E+11,7.37905E+12,8.80%,76.70%,19.80%,Republican
+2005,George Walker Bush,5.53657E+11,7.93271E+12,7.50%,76.70%,19.80%,Republican
+2006,George Walker Bush,5.74264E+11,8.50697E+12,7.20%,76.70%,19.80%,Republican
+2007,George Walker Bush,5.00679E+11,9.00765E+12,5.90%,76.70%,19.80%,Republican
+2008,George Walker Bush,1.01707E+12,1.00247E+13,11.30%,76.70%,19.80%,Republican
+2009,Barack Hussein Obama,1.8851E+12,1.19098E+13,18.80%,95.30%,43.30%,Democrat
+2010,Barack Hussein Obama,1.65179E+12,1.35616E+13,13.90%,95.30%,43.30%,Democrat
+2011,Barack Hussein Obama,1.22872E+12,1.47903E+13,9.10%,95.30%,43.30%,Democrat
+2012,Barack Hussein Obama,1.2759E+12,1.60662E+13,8.60%,95.30%,43.30%,Democrat
+2013,Barack Hussein Obama,6.71942E+11,1.67382E+13,4.20%,95.30%,43.30%,Democrat
+2014,Barack Hussein Obama,1.08589E+12,1.78241E+13,6.50%,95.30%,43.30%,Democrat
+2015,Barack Hussein Obama,3.26546E+11,1.81506E+13,1.80%,95.30%,43.30%,Democrat
+2016,Barack Hussein Obama,1.24109E+12,1.95734E+13,7.80%,95.30%,43.30%,Democrat
+2017,Donald John Trump,6.71455E+11,2.02449E+13,3.40%,12.5,11.10%,Republican
+2018,Donald John Trump,1.36205E+12,2.16069E+13,6.30%,12.5,11.10%,Republican
+2019,Donald John Trump,4.20476E+11,2.20274E+13,1.90%,12.5,11.10%,Republican
