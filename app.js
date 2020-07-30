@@ -130,19 +130,19 @@ function ready(err, results) {
         selector: 'map-btns',
         data: [
             {
-                label: '2009',
+                label: '2016',
                 className: 'btn',
                 id: 0,
                 class: createMap,
             },
             {
-                label: '2010',
+                label: '2017',
                 className: 'btn',
                 id: 1,
                 class: createMap,
             },
             {
-                label: '2011',
+                label: '2018',
                 className: 'btn',
                 id: 2,
                 class: createMap,
@@ -154,19 +154,19 @@ function ready(err, results) {
         selector: 'bubble-btns',
         data: [
             {
-                label: '2009',
+                label: '2016',
                 className: 'btn',
                 id: 0,
                 isFunction: true,
             },
             {
-                label: '2010',
+                label: '2017',
                 className: 'btn',
                 id: 1,
                 isFunction: true,
             },
             {
-                label: '2011',
+                label: '2018',
                 className: 'btn',
                 id: 2,
                 isFunction: true,
@@ -178,19 +178,19 @@ function ready(err, results) {
         selector: 'bar-btns',
         data: [
             {
-                label: '2009',
+                label: '2016',
                 className: 'btn',
                 id: 0,
                 class: createBarDiagram,
             },
             {
-                label: '2010',
+                label: '2017',
                 className: 'btn',
                 id: 1,
                 class: createBarDiagram,
             },
             {
-                label: '2011',
+                label: '2018',
                 className: 'btn',
                 id: 2,
                 class: createBarDiagram,
