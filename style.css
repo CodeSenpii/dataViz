@@ -71,6 +71,7 @@
   flex-direction: column;
   text-align: center;
   display: flex;
+  background-color: red;
 }
 .bubble-wrapper {
   height: 100%;
