@@ -101,8 +101,8 @@ function ready(err, results) {
         legendWidth: 140,
         legendHeight: 300,
         color: {
-            min: '#f9f9f9',
-            max: '#bc2a66',
+            min: '#ced4f2',
+            max: '#2144f2',
         },
         fields: mapFields,
     };
