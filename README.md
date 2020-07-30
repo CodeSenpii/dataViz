@@ -44,4 +44,4 @@ Bubble Chart
 Bar Chart
 	Bikram
 
-https://stani300.github.io/CS498DatavizFinalProject/index.html
+https://codesenpii.github.io/dataViz/#
