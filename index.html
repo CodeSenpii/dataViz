@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Gun Data Visualization</title>
+    <link rel="stylesheet" type="text/css" href="lib/fullpage.css"/>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.10.2/d3.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="lib/fullpage.js"></script>
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+
+            //initialising fullpage.js in the jQuery way
+            $('#fullpage').fullpage({
+                sectionsColor: ['#8dd3c7', '#ffffb3', '#bebada', '#fb8072', '#80b1d3', '#b3de69', '#fccde5', '#d9d9d9', '#bc80bd'],
+                navigation: true,
+                slidesNavigation: true,
+            });
+
+            // calling fullpage.js methods using jQuery
+            $('#moveSectionUp').click(function (e) {
+                e.preventDefault();
+                $.fn.fullpage.moveSectionUp();
+            });
+
+            $('#moveSectionDown').click(function (e) {
+                e.preventDefault();
+                $.fn.fullpage.moveSectionDown();
+            });
+        });
+    </script>
+</head>
+<body>
+
+<div id="fullpage">
+    <div class="section">
+        <div class="banner-wrapper">
+            <div class="header-wrapper">
+                <h1 class="heading">Gun Crimes in the United States</h1>
+                <h3 class="sub-heading">This is a  data visualization project using Gun Crimes Dataset in the US
+                  from 2009-2011</h3>
+                <h3 class="sub-heading">UIUC CS 498 Data Visualization-Sandro Tanis powered by Professor John C. Hart</h3>
+            </div>
+
+        </div>
+    </div>
+
+
+    <div class="section">
+
+        <div class="about-wrapper">
+            <div class="about-sections">
+                <h1>About the Visualization</h1>
+                <p>This visualization is an interactive slideshow which walks the user through gun crime statistics by
+                    US state. How high is gun crime across the US - and which states have the worst figures? The
+                    violence debate specifically relating to Gun violence has plagued the urban cities for multiple
+                    decades and states with larger population often has a high rate of gun crimes and other forms of
+                    violence. The reason why I choose this dataset is to bring more awareness that this will continue to
+                    be a major problem in the US if the government fails to pass gun reforms because The US has the
+                    highest gun ownership rate in the world - there are 89 guns for every 100 Americans, compared to 6
+                    in England and Wales. Moreover, the dataset will show data that I have pulled from 2009-2011 and
+                    it will show in detail about murder trends in the United States.</p>
+                <h2>Working with the Dataset</h2>
+                <p>The dataset was about 100 MB in size and the challenge was to converting to excel and clean it and
+                    then converting to Json in order to upload the data using D3.Js script and deleting some data that
+                    did not show any relevance to the message that I am trying to convey to the user.</p>
+                <h2>Elements of Narration</h2>
+                <h2>Website Scene Overview</h2>
+                <p>I used ccs and JavaScript to develop this static site and I chose to do interactive slideshow.
+                    Furthermore, I used scroll to transition between each page and I kept the content of the text element
+                    the same as far as font size.  Moreover, as you navigate the bar on the right side,
+                    the page will transition to each slide which will display the charts that I have selected for my overall
+                    project. I have used the following 3 types of charts: MAP, BUBBLE, BAR and tooltips are used on e
+                    very chart for the user to mouseover and gain significant information on the statistics that I have gathered.</p>
+                <h2>1. Annotations</h2>
+                <p>Various tooltips, Filters, and labels were used for my data visualization; the charts will show 3 areas
+                    where the user can focus based on the filtered year from 2009-2011 for each type of charts as you mouseover,
+                    you will discover that the tooltip will give you more insight on the data.</p>
+                <h2>2. Parameters and Triggers</h2>
+                <p>The main parameters of this story are total number of murders by state, region, and by the type of weapons
+                    for examples handguns has caused a lot more murders than knives and other types of weapons and the tooltips
+                    will outline my findings.</p><br/>
+                <p>For the USA Map, I used colors red and filters and tooltips to display the data, the darker the color the greater
+                    the total number of murders associated with to each state for example Texas and California will have a greater number of
+                    murders because their population is greater, and this also goes for the types of weapons that is used to commit crimes,
+                    handguns vs robberies are more accessible to these states.</p><br/>
+                <p>For the Bubble chart Visualization, there are 2 categories total murders which will display all of the states together and as
+                    you mouse over the bubble, it will display tool tips with the name of the state and other types of data associated with it and
+                    the bigger the bubble the greater the number of murders for that state. Murder by Region is another type which I
+                    thought would be interesting to group the states regionally: Northeast, South,  Midwest, and West so the user can drill-down deeper.</p><br/>
+                <p>For the bar Chart Visualization, X and Y axis are properly labeled showing types of weapons that were used
+                    and total number of murders relating to these various weapons. I also added filter, so the user can choose between
+                    the years 2009-2011. The tooltip will show the 3 states with the highest number of murders vs the 3 states with lower number of murders
+                    on each bar on the chart.</p>
+
+            </div>
+        </div>
+
+    </div>
+
+    <div class="section">
+        <div class="dataset-info-wrapper">
+            <div class="dataset-info-content">
+                <h1>The Gun Dataset</h1>
+                <p class="long-text">​​The latest data from the FBI's uniform crime reports provides a fascinating picture of the use of
+                    firearms in crimes across America. The Gun crime dataset really gives in depth information on
+                    different types of crimes which involved: Handgun, Rifles, Shotguns, Firearms (type unknown), Knives
+                    or cutting instruments, Other weapons Hands, fists, feet, etc.2. You (the user) as you interact with
+                    the slideshow, you will quickly find out that Handguns and Firearms are among the deadliest in the
+                    US. Furthermore, you will see a trend in murders from 2009 to 2011 where crimes in the US continue
+                    to rise and the data will vary based on the population in each state. President Barack Obama was
+                    under pressure to tighten gun laws after following the disclosure by police that the Newtown gunman
+                    used a semi-automatic assault rifle equipped with "numerous" high-capacity magazines holding
+                    hundreds of bullets to carry out his massacre of young children. Unfortunately, Congress failed to
+                    act and The National Rifle Association, the largest and most influential of the gun rights lobby
+                    groups, has been similarly silent after each massacre and the murder figures themselves are
+                    astounding comparing to the United kingdom whose murder average is around 550 per year.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="map-section">
+            <h1>Overview of Gun Dataset based on USA Map</h1>
+            <div class="btn-wrapper map-btns">
+
+            </div>
+            <div class="map-wrapper"></div>
+        </div>
+    </div>
+    <div class="section bubble-section">
+
+        <div class="bubble-wrapper">
+            <h1>Bubble Chart by Group</h1>
+            <div class="btn-wrapper bubble-btns">
+
+            </div>
+            <div id="buttons">
+                <a href="#" id="all" class="button active">All Murder</a>
+                <a href="#" id="murder_range" class="button">Murder By Group</a>
+            </div>
+            <div class="bubble-chart-container">
+                <div class="bubble-wrapper"></div>
+                <div class="legends"></div>
+            </div>
+        </div>
+
+    </div>
+    <div class="section">
+
+        <div class="bar-section-wrapper">
+            <h1>Bar Diagram</h1>
+            <div class="btn-wrapper bar-btns">
+
+            </div>
+            <div class="bar-wrapper"></div>
+        </div>
+    </div>
+    <div class="section">
+        <div class="dataset-info-wrapper">
+            <div class="dataset-info-content">
+                <h1>Discovery</h1>
+                <p class="long-text">​In 2011, the latest year for which detailed statistics are available - there were 12, 664 murders in the US.
+                    Of those murders 8,583 were caused by firearms.
+                    <span>The FBI crime statistics </span> are based on reports to FBI bureau and local law enforcement. <span>In conclusion,</span> I am very passionate about the gun debate
+                    and this is why I chose this dataset in order to show that if we have that we need to have gun
+                    <span>reforms</span> in the
+                    <span>United states.</span> This is not a matter of the second amendment rights but rather a matter of life and death, and we need to keep the guns out
+                    of the hands of the bad guys.</p>
+            </div>
+        </div>
+    </div>
+    <div class="section">
+        <div class="footer-wrapper-container">
+            <div class="footer-wrapper">
+                <h1>References</h1>
+                <h2>Github Project</h2>
+                <ul>
+                    <li><a href='https://stani300.github.io/CS498DatavizFinalProject/index.html' target='_blank'>CS498 DataViz Project
+                    </a></li>
+                </ul>
+                <h2>Dataset</h2>
+                <ul>
+                    <li><a href='https://catalog.data.gov/dataset?tags=crime' target='_blank'>Gun Crime dataset by DataGov</a></li>
+                </ul>
+
+                <h2>Bubble Chart</h2>
+                <ul>
+                    <li><a href='https://bl.ocks.org/john-guerra/0d81ccfd24578d5d563c55e785b3b40a' target='_blank'>
+                        Bubble Chart d3 v4 Github Gist by John Alexis Guerra Gomez</a></li>
+                    <li><a href='https://github.com/vlandham/bubble_chart_v4' target='_blank'>Animated Bubble Chart by
+                        Jim Vallandingham</a></li>
+                    <li><a href='https://github.com/d3/d3-hierarchy/blob/master/README.md#pack' target='_blank'>d3 API
+                        documents on d3-hierarchy - packs</a></li>
+                </ul>
+
+                <h2>Bar Chart</h2>
+                <ul>
+                    <li><a href='https://github.com/bikramkawan/D3' target='_blank'>
+                        d3.js Multi-series Bar chart interactive by bikramkawan</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="tooltip-map">
+    <div class="row state-name"></div>
+    <div class="row totals"></div>
+    <div class="types"></div>
+</div>
+
+<div class="tooltip-bubble">
+    <div class="row state-name"></div>
+    <div class="row totals"></div>
+    <div class="types"></div>
+</div>
+
+<div class="tooltip-bar">
+
+    <div class="col top-three">
+        <div class="col-header">Top Three States</div>
+        <div class="row-content"></div>
+    </div>
+    <div class="col bottom-three">
+        <div class="col-header">Low Three States</div>
+        <div class="row-content"></div>
+    </div>
+
+</div>
+
+
+<script src="RenderMap.js"></script>
+<script src="RenderBubble.js"></script>
+<script src="BarDiagram.js"></script>
+<!--<script src="tes.js"></script>-->
+<script src="app.js"></script>
+</body>
+</html>
