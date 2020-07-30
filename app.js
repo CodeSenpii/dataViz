@@ -47,7 +47,7 @@ function createBubbleData(data) {
     const bubbleColorScale = d3
         .scaleLinear()
         .domain([0, reviewsExt])
-        .range(['#f9f9f9', '#bc2a66']);
+        .range(['#ced4f2', '#2144f2']);
 
     return data.map(item => {
         const value = parseFloat(item['Total_murders']);
