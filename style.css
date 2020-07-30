@@ -60,7 +60,8 @@
 .dataset-info-wrapper .dataset-info-content .long-text {
   line-height: 1.5;
   color: black;
-  font-weight:bold;
+  font-weight: bold;
+  font-size: 20px;
 }
 .map-section {
   width: 100%;
