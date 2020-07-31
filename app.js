@@ -1,5 +1,5 @@
 function splitDataByYear({ completeData, allKeys, mainKeys }) {
-    const years = ['2009', '2010', '2011'];
+    const years = ['2016', '2017', '2018'];
     const fields = [];
     const dataByYear = years.map((year, index) => {
         const fieldKeys = allKeys.filter(k => k.indexOf(year) > -1);
@@ -67,9 +67,9 @@ function createBubbleData(data) {
 
 d3
     .queue()
-    .defer(d3.json, 'data/gun-data.json')
+    .defer(d3.json, 'data/gun-data1.json')
     .defer(d3.json, 'data/us-states.json')
-    .defer(d3.csv, 'data/gun-data1.csv')
+    .defer(d3.csv, 'data/gun-data2.csv')
     .awaitAll(ready);
 
 function ready(err, results) {
@@ -81,9 +81,9 @@ function ready(err, results) {
 
     const mainKeys = allKeys.filter(k => {
         return (
-            k.indexOf('2009') < 0 &&
-            k.indexOf('2010') < 0 &&
-            k.indexOf('2011') < 0
+            k.indexOf('2016') < 0 &&
+            k.indexOf('2017') < 0 &&
+            k.indexOf('2018') < 0
         );
     });
 
