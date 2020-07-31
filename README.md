@@ -1,4 +1,4 @@
-# CS498DatavizFinalProject
+# CS-498 Data vizualization
 Data Visualization Overview 
 
 This visualization is an interactive slideshow which walks the user through gun crime statistics by US state. How high is gun crime across the US - and which states have the worst figures? The violence debate specifically relating to Gun violence has plagued the urban cities for multiple decades and states with larger population often has a high rate of gun crimes and other forms of violence. The reason why I choose this dataset is to bring more awareness that this will continue to be a major problem in the US if the government fails to pass gun reforms because The US has the highest gun ownership rate in the world - there are 89 guns for every 100 Americans, compared to 6 in England and Wales. Moreover, the dataset will show data that I have pulled from 2016-2018 and it will show in detail about murder trends in the United States.
