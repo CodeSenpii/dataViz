@@ -65,11 +65,11 @@ function createBubbles(selector, rawData) {
         .attr('stroke-width', 0.5)
         .on('mouseover', d => {
             createToolTip(d);
-            d3.select(this).style('fill', 'red');
+            d3.select('circle').style('fill', 'red');
         })
         .on('mouseout', () => {
             d3.select('.tooltip-bubble').style('display', 'none');
-            d3.select(this).style('fill', d => d.color);
+            d3.select('circle').style('fill', d => d.color);
         });
 
     bubbles = bubbles.merge(bubblesE);
